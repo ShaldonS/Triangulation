@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\eemee\source\repos\HighMatrix\HighMatrix\Matrix.h(14,3): error C3861: pVector: идентификатор не найден
+C:\Users\eemee\source\repos\HighMatrix\HighMatrix\Matrix.h(53): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TMatrix<T>"
+C:\Users\eemee\source\repos\HighMatrix\HighMatrix\Matrix.h(19,10): error C3861: pVector: идентификатор не найден
+C:\Users\eemee\source\repos\HighMatrix\HighMatrix\Matrix.h(23,12): error C3861: pVector: идентификатор не найден
+C:\Users\eemee\source\repos\HighMatrix\HighMatrix\Matrix.h(81,13): error C3861: pVector: идентификатор не найден
+C:\Users\eemee\source\repos\HighMatrix\HighMatrix\Matrix.h(82,4): error C3861: pVector: идентификатор не найден
+C:\Users\eemee\source\repos\HighMatrix\HighMatrix\Matrix.h(86,4): error C3861: pVector: идентификатор не найден
